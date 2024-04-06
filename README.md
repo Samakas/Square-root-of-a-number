@@ -17,7 +17,7 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
+```python
 /*
 Program to find the square root for the given number(newton's method) using function.
 Developed by: Samakash.R.S
@@ -34,7 +34,7 @@ print("Square root of the number:",n_m(a))
 ```
 
 ## Output:
-![Screenshot 2024-03-23 085035](https://github.com/Samakas/Square-root-of-a-number/assets/154731670/f3a261da-7792-4efe-9a5b-67029b0ed267)
+![alt text](<Screenshot 2024-04-06 110135.png>)
 
 
 
